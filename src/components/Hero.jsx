@@ -15,7 +15,7 @@ const Hero = () => {
         <div>
             <h1 className="lg:text-6xl text-4xl max-sm:text-4xl md:text-6xl font-bold">Hi, I'm&nbsp;
               <TypeAnimation
-                  sequence={["Atul Mishra", 1000, "A Full Stack Devloper", 1000]}
+                  sequence={["Atul Mishra", 1000, "A MERN Stack Devloper", 1000]}
                   wrapper="span"
                   speed={30}
                   repeat={Infinity}
